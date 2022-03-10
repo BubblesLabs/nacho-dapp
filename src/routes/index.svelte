@@ -1,5 +1,4 @@
 <script lang="ts">
-  import NachoSvg from "$lib/NachoSvg.svelte";
   import NachoLogo from "$lib/NachoLogo.svelte";
 </script>
 
